@@ -3,20 +3,20 @@ baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Toubans! HP
-email: nisshi.yui79@gmail.com@gmail.com
+email: nisshi.yui79@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Yui Nishimura
   pic: 1
-  position: Lead Designer
+  position: Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/nisshi_yui79
     - title: facebook
-      url: #
+      url: https://www.facebook.com/yui.nishimura.0709
     - title: stack-overflow
       url: #
 
